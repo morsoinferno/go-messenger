@@ -5,7 +5,7 @@
 
 ## Usage
 
-	go-auth - A RESTful Authentication Service with a Database backend
+	go-auth - A RESTful Authentication Service with a Database backend (probando git-flow)
 
 	USAGE:
 	   go-auth [global options] command [command options] [arguments...]
